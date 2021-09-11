@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      E AE!!!
+      <h1 className="text-primary">E AE!!!</h1>
     </div>
   );
 }
