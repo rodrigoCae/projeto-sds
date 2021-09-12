@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RcsvendaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RcsVendaApplication.class, args);
+		SpringApplication.run(RcsvendaApplication.class, args);
 	}
 
 }
